@@ -52,7 +52,7 @@ const Posts = () => {
                                     <img src="/images/my.jpg" alt="" />
                                 </div>
                                 <div className="post__first__fname">
-                                    <strong>Abdullah Amjad</strong> <FaRegCheckCircle className="verify" />
+                                    <strong>Abdullah Amjad!</strong> <FaRegCheckCircle className="verify" />
                                 </div>
                                 <div className="post__first__username">
                                     <strong>@Abdullah149</strong>
